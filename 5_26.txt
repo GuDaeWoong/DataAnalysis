@@ -1,0 +1,9 @@
+아나콘다 프롬프트
+pip install googlemaps
+python -m pip install --upgrade pip
+pip install googlemaps
+
+key: AIzaSyD548iSahGuxgvGqfg8P0ytIVF6ksn4NMw
+
+지리적
+pip install folium
